@@ -1,0 +1,6 @@
+{
+  "name": "AtelierVenue - Small Venue Booking & Contract Manager",
+  "description": "Lightweight booking calendar, Stripe deposit collection, and PDF contract management for small event venues, photography studios, and rooftop spaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
